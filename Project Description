@@ -1,0 +1,4 @@
+
+extra dependencies for this project:
+npm i axios
+npm i react-youtube
